@@ -10,10 +10,10 @@
 
 - You can run to use below commands
 
-python3 manage.py makamigrations
+  python3 manage.py makamigrations
 
-python3 manage.py migrate
+  python3 manage.py migrate
 
-python3 manage.py createsuperuser
+  python3 manage.py createsuperuser
 
-python3 manage.py runserver
+  python3 manage.py runserver
